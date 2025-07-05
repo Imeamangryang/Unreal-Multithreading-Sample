@@ -1,7 +1,6 @@
 #include "RunnablePrimeCalculator.h"
 #include "PrimeHelper.h"
-
-#include "Engine/Engine.h" // Ensure this include is present for GEngine  
+#include "Engine/Engine.h"
 
 // Runnable Thread란?
 // Unreal Engine에서 Runnable Thread는 별도의 스레드에서 실행될 수 있는 작업 단위를 의미합니다.
