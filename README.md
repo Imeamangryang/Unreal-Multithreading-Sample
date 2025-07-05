@@ -2,8 +2,12 @@
 
 ## 프로젝트 소개
 
+![HighresScreenshot00000](https://github.com/user-attachments/assets/8c62bd72-ac5b-4bb4-8db9-4a86980b4317)
+
 UE5MultiThreadSample 프로젝트는 Unreal Engine 5에서 멀티 스레딩을 활용하는 방법을 예시로 보여주는 샘플입니다. 
 이 프로젝트는 게임 개발 시 멀티 스레드 환경에서의 효율적인 작업 분배와 성능 향상 기법을 학습하는 데 목적이 있습니다.
+
+> 참고 영상 : [Unreal Engine Multithreading Techniques](https://youtu.be/sF89bNHErLo?si=NTyz8KWmJhBtL5jD)
 
 - **엔진 버전:** Unreal Engine 5.4.4
 
